@@ -1,0 +1,1 @@
+Shortly Website Open [here](https://shortlyy-website.netlify.app/)
